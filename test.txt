@@ -3,6 +3,7 @@
 
 test
 
+<<<<<<< HEAD
 
 Renish 112. 
 
@@ -14,3 +15,5 @@ Test 3
 Renish1 iOS Commit
 
 Test Backend
+
+Renish1 iOS Commit
