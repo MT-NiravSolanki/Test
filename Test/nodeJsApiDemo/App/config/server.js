@@ -8,7 +8,7 @@ var app =express()
   resp.end("hello world");
 });*/}
 app.listen(4000,()=>{
-  console.log("server running");
+  console.log("test server running");
 })
 
 module.exports = app;
