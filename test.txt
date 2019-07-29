@@ -3,12 +3,4 @@
 
 test
 
-
-Renish 112. 
-
-Test 2
-Renish2 iOS New latest Commit. 
-
-Test 3
-
 Renish1 iOS Commit
